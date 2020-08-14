@@ -18,7 +18,7 @@ https://pythonhosted.org/pynput/keyboard.html
 https://buildmedia.readthedocs.org/media/pdf/pynput/latest/pynput.pdf
 
 
-# required innitial libraries and driver.
+# required initial libraries and driver.
 
 
 ## path for selenium chrome driver(https://sites.google.com/a/chromium.org/chromedriver/downloads)
